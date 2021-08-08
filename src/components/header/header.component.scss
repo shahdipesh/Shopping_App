@@ -1,0 +1,35 @@
+
+.header{
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    justify-content: space-between;
+
+    .logo{
+        margin-left: 20px;
+    }
+    
+    .links{
+        margin-right: 20px;
+        font-size: larger;
+       justify-content:baseline;
+       align-items: baseline;
+       align-content: left;
+    }
+
+    
+}
+
+
+.a{
+    margin-right: 10px;
+    text-decoration: none;
+    color:cadetblue
+}
+
+.numItems{
+    font-size: 11px;
+    display: inline-block;
+    font-weight: bold;
+}
